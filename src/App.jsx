@@ -25,14 +25,14 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Joshua Lovell",
-  title: "Data Analyst & So much more",
-  email: "private@gmail.com",
+  title: "Student",
+  email: "",
   gitHub: "jllovell",
-  instagram: "-",
-  linkedIn: "-",
+  instagram: "",
+  linkedIn: "",
   medium: "",
   twitter: "",
-  youTube: "-",
+  youTube: "",
 };
 
 const primaryColor = "#4E567E";
