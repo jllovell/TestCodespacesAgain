@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/feather.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "Blurred background of a desk with a feather pen and paper.";
 
 /**
  * Project list
@@ -53,6 +53,18 @@ const projectList = [
     description:
       "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
     url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+  },
+  {
+    title: "My only youtube video",
+    description:
+      "The first and last youtube video I uploaded, in which I am wearing a funky tshirt from South Africa and reading out a poem I wrote.",
+    url: "https://youtu.be/WPtbdfVinSA?si=KQ9cW-pgbinC9O3W",
+  },
+  {
+    title: "My public Github repo",
+    description:
+      "A very empty GitHub repository (for now!).",
+    url: "https://github.com/jllovell/jllovell",
   },
 ];
 
